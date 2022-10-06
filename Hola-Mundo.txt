@@ -1,1 +1,4 @@
 Hola, mundo
+El comit nos dice en su titulo: que es lo que hace la nueva actualizacion en **imperativo**, 
+y nos da una desctipcion del para QUE lo agregamos, cual es su sentido en todo esto..
+
